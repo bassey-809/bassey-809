@@ -35,8 +35,12 @@ These are technologies I use, have worked with, or am actively learning.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bassey-809&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassey-809&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bassey-809&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
