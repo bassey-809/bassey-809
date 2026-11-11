@@ -19,11 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an undergraduate **Information Technology student** building a strong foundation in programming, software development, and computer systems. My long-term academic goal is to pursue a **Master's degree in Computer Science**.
+I'm an undergraduate **Information Technology student** building a strong foundation in programming, software development, and computer systems. I enjoy understanding how software works beneath the surface—from application logic and databases to networking and security.
 
-I enjoy understanding how software works beneath the surface—not just writing code, but learning how applications communicate, how databases are structured, and how systems can be made more secure.
-
-- 🔭 Working on strengthening my programming and software engineering skills.
+- 🔭 Developing practical software projects and strengthening my programming foundations.
 - 🌱 Learning backend development, databases, data structures, and cybersecurity fundamentals.
 - 💻 Practising with C++, Java, Python, and web technologies.
 - 🔐 Interested in ethical cybersecurity research, Linux, networking, and systems security.
@@ -58,7 +56,29 @@ I enjoy understanding how software works beneath the surface—not just writing 
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
-## 🎯 Current Learning Path
+## 🚀 Projects & Work
+
+### 1. CarePoint — Team Web Application
+**Status:** In development · **Repository:** Private
+
+Collaborating on a web application, with current work focused on the account registration and login experience and connecting the frontend to its backend services.
+
+- Building and refining HTML/CSS registration and login interfaces.
+- Working with Supabase for database setup and backend integration.
+- Configuring database security with Row Level Security (RLS).
+- Coordinating frontend and backend responsibilities with a teammate.
+
+### 2. Student Optimizer / Connect — Student Productivity Platform
+**Status:** Project concept
+
+A planned platform idea for students, focused on helping them organise their academic goals, learning activities, and collaboration. The concept includes student profiles, planning tools, discussions, and the possibility of an AI study assistant.
+
+### 3. Quark — Operating Systems Exploration
+**Status:** Early-stage learning / concept
+
+An exploratory operating-systems project idea. I'm studying boot processes, kernels, memory management, processes, interrupts, and system architecture to build the foundations needed for a future OS project.
+
+## 🎯 Current Learning Focus
 
 | Area | What I'm developing |
 |---|---|
@@ -68,15 +88,11 @@ I enjoy understanding how software works beneath the surface—not just writing 
 | Cybersecurity | Networking, Linux, secure coding, and ethical security research |
 | Computer systems | Operating systems, computer architecture, and systems programming |
 
-## 📌 Projects
-
-I'm building my project portfolio as I develop my skills. I'll use this section to highlight projects with public source code, clear documentation, and useful demonstrations as they become ready to share.
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassey-809&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassey-809&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bassey-809&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bassey-809&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bassey-809&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
@@ -84,7 +100,7 @@ I'm building my project portfolio as I develop my skills. I'll use this section 
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, learning from experienced engineers, and collaborating on projects that help me grow.
+I'm interested in connecting with developers, learning from experienced engineers, and collaborating on projects that help me grow.
 
 - GitHub: [@bassey-809](https://github.com/bassey-809)
 
