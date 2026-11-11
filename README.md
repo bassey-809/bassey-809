@@ -4,7 +4,7 @@
 
 I'm an undergraduate Information Technology student interested in building useful software, understanding how systems work, and exploring the security challenges that come with them.
 
-I'm strengthening my programming foundations and working toward a **Master's degree in Computer Science**. My interests include backend development, cybersecurity, systems programming, and software engineering.
+I'm strengthening my programming foundations and working toward my interests include backend development, cybersecurity, systems programming, and software engineering.
 
 ## 🚀 What I'm Working Toward
 
